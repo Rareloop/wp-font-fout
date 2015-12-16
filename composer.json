@@ -1,6 +1,7 @@
 {
     "name": "rareloop/wp-font-fout",
     "description": "Optimise font loading, producing a FOUT instead of a FOIT",
+    "license": "MIT",
     "type": "wordpress-plugin",
     "authors": [
         {
